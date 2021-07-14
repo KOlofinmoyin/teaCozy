@@ -45,9 +45,13 @@ nav li {
   background-image: url("../Images/img-mission-background.jpg");
   background-repeat: no-repeat;
   height: 700px;
-  width: 100%;
+  /* width: 100%; */
   top: 50px;
   border-bottom: 1px solid seashell;
+  /* display: block; */
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px;
 }
 
 
